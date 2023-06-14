@@ -1,0 +1,17 @@
+.product-photo{
+    width: 244px;
+    height: 303px;
+}
+
+.loading{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    background-color: rgba(237, 241, 244, 0.5);
+}
+
+.loading>img{
+    width: 100px;
+}
