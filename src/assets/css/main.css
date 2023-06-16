@@ -1881,8 +1881,8 @@ input.num-product::-webkit-inner-spin-button {
   -moz-transition: all 0.4s;
   transition: all 0.4s;
 
-  visibility: hidden;
-  opacity: 0;
+  /* visibility: hidden; */
+  opacity: 1;
 }
 
 .overlay-modal1 {

@@ -3,6 +3,11 @@
     height: 303px;
 }
 
+.product-photo-lg{
+    width: 506px;
+    height: 625px;
+}
+
 .loading{
     width: 100vw;
     height: 100vh;
